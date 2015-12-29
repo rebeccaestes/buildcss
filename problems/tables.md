@@ -2,7 +2,7 @@
 
 Tables are for tabular data, never for layout.
 
-Visually, they're advantage is they'll automatically fit the cells to the available space.
+Visually, their advantage is they'll automatically fit the cells to the available space.
 
 Here's the markup. (If you're not familiar with any of the elements, you should look them up on MDN.)
 
